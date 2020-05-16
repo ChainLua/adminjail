@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD COLUMN `adminjail` INT(11) NOT NULL DEFAULT '0';
