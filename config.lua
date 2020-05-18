@@ -1,6 +1,6 @@
 Config = {}
 Config.Group = 'superadmin'
-Config.Discord = 'https://discordapp.com/api/webhooks/687064852585250945/EWsYC4pJ9tqfyp1oNK9ocrVZN1sdPRO6X_XjpPROt1O3SabOMgLMGQFgmzDYdaprkvQJ'
+Config.Discord = 'DISCORD_WEBHOOK'
 
 Config.JailPositions = {
 	["Cell"] = { ["x"] = 1799.8345947266, ["y"] = 2489.1350097656, ["z"] = -119.02998352051, ["h"] = 179.03021240234 }
